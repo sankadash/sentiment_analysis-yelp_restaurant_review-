@@ -19,6 +19,8 @@ Sentiment analysis is a key aspect of understanding customer feedback and opinio
 
 The Yelp dataset contains reviews from the Yelp platform. In this notebook, the data is converted from a JSON format to CSV for easier manipulation and analysis. The dataset includes various attributes such as review text, user information, and ratings.
 
+You can download the dataset from the official Yelp Dataset website [here](https://www.yelp.com/dataset/download).
+
 ## Installation
 
 To run the notebook, you'll need to install the following dependencies:
