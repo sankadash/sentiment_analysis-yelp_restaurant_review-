@@ -51,19 +51,13 @@ To use this notebook, follow these steps:
     cd sentiment-analysis-yelp
     ```
 
-2. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Open the Jupyter Notebook:
+2. Open the Jupyter Notebook:
 
     ```bash
     jupyter notebook Sentiment_Analysis_yelp.ipynb
     ```
 
-4. Run the cells in the notebook to execute the sentiment analysis pipeline.
+3. Run the cells in the notebook to execute the sentiment analysis pipeline.
 
 ## Methodology
 
